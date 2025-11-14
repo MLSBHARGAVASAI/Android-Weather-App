@@ -41,9 +41,9 @@ Docs: https://www.openstreetmap.org/
 
 ## 📸 Screenshots (Add Your Images Here)
 
-![Weather Screen](images/screen1.png)  
-![Dark Mode](images/screen2.png)  
-![Map View](images/screen3.png)
+![Weather Screen](img1.png)  
+![Dark Mode](img2.png)  
+
 
 ## 📱 Installation & Setup
 
